@@ -5,7 +5,7 @@ Inorder to scrape data using tweepy you need (Consumer Key,Consumer Secret, Acce
 After getting them you can see the file for how to use tweepy.
 
 Note: 
-Tweepy only allows maximum 7 days old data to be scraped so you cannot use (until & since) statements in tweepy to get data for a particular timeline. I am unware whether         its restricted only in my develpor account or since my account was a basic one as a resukt I was Unable to scapre data for previous years. But I was unable to scrape 
+Tweepy only allows maximum 7 days old data to be scraped so you cannot use (until & since) statements in tweepy to get data for a particular timeline. I am unware whether         its restricted only in my develpor account or since my account was a basic one as a resukt I was unable to scapre data for previous years as I was unable to scrape 
 previous years data and it showed error when I used since & until statements.  
 
 To know more about tweepy, how to install it  and its functions cruise through the link below:
